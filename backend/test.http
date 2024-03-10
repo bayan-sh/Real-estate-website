@@ -1,0 +1,20 @@
+POST http://localhost:4000/property
+Content-Type: :application/json
+
+{
+       "title":"Housebighh",
+       "address":"Damascus",
+       "Descreption":"a big house near city centre",
+       "photo":"House3Lg",
+       "bedrooms":3,
+       "bathrooms":3,
+       "rooms":3,
+       "balcony":3,
+       "carpetarea":3,
+       "furnished":"semi",
+       "price":1,
+       "status":"jj",
+       "owner":"bayan",
+       "ownerphone":5788,
+       "type":"house",
+}

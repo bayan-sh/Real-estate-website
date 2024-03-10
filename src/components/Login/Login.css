@@ -1,0 +1,13 @@
+.inner-login{
+    padding-top: 80px;
+    display:flex ;
+    
+    flex-direction: row-reverse;
+  }
+  .inner-login .img-login{
+    width: 600px;
+    height: auto;
+  }
+  .login-submit{
+    padding-bottom: 30px;
+  }
